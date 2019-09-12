@@ -1,0 +1,8 @@
+Type: Jupyter Notebook Extension
+Compatibility: 5.x
+Name: Default Cell
+Main: main.js
+Link: README.md
+Description: |
+  Create Anki notebook cloze cards by selecting code to review
+  Sends card to local running anki server 
